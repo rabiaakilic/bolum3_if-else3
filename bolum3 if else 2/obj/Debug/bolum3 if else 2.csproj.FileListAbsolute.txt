@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\bin\Debug\bolum3 if else 2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\bin\Debug\bolum3 if else 2.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\bin\Debug\bolum3 if else 2.pdb
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3 if else 2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3 if else 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3_if_else_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3_if_else_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3 if else 2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3 if else 2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3 if else 2.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\bolum3 if else 2\bolum3 if else 2\obj\Debug\bolum3 if else 2.pdb
